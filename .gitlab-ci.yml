@@ -3,3 +3,4 @@ test:
   
   script:
     - echo "Success 🚀"
+    - exit 1
