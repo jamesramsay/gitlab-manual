@@ -2,5 +2,4 @@ test:
   stage: test
   
   script:
-    - echo "Success 🚀"
-    - exit 1
+    - echo "Success 🐢"
